@@ -4,10 +4,8 @@
             <div class="col-12">
                 <div class="hero__content text-center">
                     <div class="hero__content-tag">
-                        <a href="#"> Laravel-Vue.js</a>
+                     <a> Project Laravel-Vue.js</a>
                     </div>
-                    <h2><a href="#">Articles</a></h2>
-
                     <div class="hero__content-tag">
                         <a href="https://unsplash.com/" target="_blank">Unsplash.com</a>
                     </div>
